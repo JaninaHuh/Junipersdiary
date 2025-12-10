@@ -1,0 +1,12 @@
+# WordPress core files
+wp-admin/
+wp-includes/
+wp-config.php
+.htaccess
+*.log
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/cache/
+.DS_Store
+node_modules/
+vendor/
